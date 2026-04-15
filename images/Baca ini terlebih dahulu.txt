@@ -1,0 +1,9 @@
+Untuk mengganti foto, silahkan ganti dengan foto kamu dan pastikan nama filenya harus img1, img2, img3, ... dst dan format jpg
+
+Bisa menampung hingga 10 foto (img1.jpg sampai img10.jpg)
+Foto yang tidak ada akan dilewati secara otomatis.
+
+Bagaimana kalau fotonya png?
+Caranya buka browser, salin link ini https://www.iloveimg.com/convert-to-jpg/png-to-jpg
+
+Enjoy^^
